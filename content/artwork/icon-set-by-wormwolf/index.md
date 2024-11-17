@@ -10,6 +10,8 @@ tags = [
 
 [extra]
 thumbnail = "1027753_sinoas_tjldymj.png"
+author = "wormwolf"
+author_url = "https://www.weasyl.com/~wormwolf"
 +++
 
 {{

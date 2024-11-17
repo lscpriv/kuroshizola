@@ -10,6 +10,8 @@ tags = [
 
 [extra]
 thumbnail = "IyjUicN-thumb.gif"
+author = "-Fao-"
+author_url = "https://www.furaffinity.net/user/-fao-/"
 +++
 
 {{

@@ -10,6 +10,8 @@ tags = [
 
 [extra]
 thumbnail = "cat_pride.png"
+author = "TrashCorgi"
+author_url = "https://www.tumblr.com/trashcorgi"
 +++
 
 {{

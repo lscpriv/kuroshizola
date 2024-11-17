@@ -10,6 +10,8 @@ tags = [
 
 [extra]
 thumbnail = "20160503.png"
+author = "Cinnamonspots"
+author_url = "https://www.cinnamonspots.com"
 +++
 
 {{

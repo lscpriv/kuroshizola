@@ -10,6 +10,8 @@ tags = [
 
 [extra]
 thumbnail = "1018402_sinoas_kuroshi_icon_by_galaxywalker.png"
+author = "GalaxyWalker"
+author_url = "https://www.furaffinity.net/user/galaxywalker"
 +++
 
 {{

@@ -10,6 +10,8 @@ tags = [
 
 [extra]
 thumbnail = "101917 kode54.jpg"
+author = "CyanSorcery"
+author_url = "https://cyansorcery.com"
 +++
 
 {{

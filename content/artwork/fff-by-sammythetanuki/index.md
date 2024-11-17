@@ -10,6 +10,8 @@ tags = [
 
 [extra]
 thumbnail = "IMG_9787.png"
+author = "SammyTheTanuki"
+author_url = "https://www.furaffinity.net/user/sammythetanuki"
 +++
 
 {{

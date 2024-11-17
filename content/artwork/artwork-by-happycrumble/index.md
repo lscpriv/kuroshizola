@@ -1,5 +1,5 @@
 +++
-title = "Artwork by Happycrumble, commissioned by my BF"
+title = "Artwork by HappyCrumble, commissioned by my BF"
 description = """This piece was also commissioned as a surprise gift by my boyfriend, Kevin. I wonder what my character is thinking about?"""
 date = 2017-11-04
 
@@ -10,6 +10,8 @@ tags = [
 
 [extra]
 thumbnail = "kddlb-kuroshi.png"
+author = "HappyCrumble"
+author_url = "https://www.deviantart.com/happycrumble"
 +++
 
 {{

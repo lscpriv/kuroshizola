@@ -10,6 +10,8 @@ tags = [
 
 [extra]
 thumbnail = "1445742400.sinoas_bshhsv8e5a5fepf2-_qzx6pbfsdbcfqkzwltmmjhwwg.jpg"
+author = "cyocyo"
+author_url = "https://www.furaffinity.net/user/cyocyo"
 +++
 
 {{

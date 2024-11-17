@@ -1,15 +1,17 @@
 +++
-title = "Artwork by redpandacase"
+title = "Artwork by Nut-Case"
 description = """This artwork was done completely live on a stream by redpandacase, while several other people and I watched it and several other commissions completed from start to finish in the one day."""
 date = 2015-10-28
 
 [taxonomies]
 tags = [
-    "Artwork", "redpandacase"
+    "Artwork", "Nut-Case"
 ]
 
 [extra]
 thumbnail = "1446092790.sinoas_kuroshi_by_redpandacase.png"
+author = "Nut-Case"
+author_url = "https://www.furaffinity.net/user/nut-case"
 +++
 
 {{

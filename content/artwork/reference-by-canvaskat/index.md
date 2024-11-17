@@ -10,6 +10,8 @@ tags = [
 
 [extra]
 thumbnail = "1430370068.sinoas_sinoas_ref.png"
+author = "Canvaskat"
+author_url = "https://bsky.app/profile/canvaskat.bsky.social"
 +++
 
 {{

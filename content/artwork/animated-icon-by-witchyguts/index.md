@@ -10,6 +10,8 @@ tags = [
 
 [extra]
 thumbnail = "1434694573.sinoas_kuroshi_icon_by_ggrowled_animated_color_flipped-thumb.gif"
+author = "WitchyGuts"
+author_url = "https://witchyguts.weebly.com"
 +++
 
 {{

@@ -11,6 +11,8 @@ tags = [
 
 [extra]
 thumbnail = "pwywcomm_christopher.png"
+author = "TheOtherRickFox"
+author_url = "https://www.furaffinity.net/user/theotherrickfox/"
 +++
 
 {{

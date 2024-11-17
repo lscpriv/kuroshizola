@@ -10,6 +10,8 @@ tags = [
 
 [extra]
 thumbnail = "1436756668.sinoas_kuroshi_icon_by_skyox-thumb.gif"
+author = "skyox"
+author_url = "https://www.furaffinity.net/user/skyox/"
 +++
 
 {{
